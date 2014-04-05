@@ -1,4 +1,4 @@
-<script language="JavaScript" type="text/javascript">
+
 <!--
 var charlestonHighTax=0.02;
 var charlestonMidTax=0.015;
@@ -14,6 +14,9 @@ var berkleyLowTax=0.02;
 
 var county, homeValue, propertyTax;
 
+function runTax()
+
+{
 
 county= prompt("What county do you live in? (Charleston,Dorchester,Berkley)","");
 
@@ -83,6 +86,6 @@ document.write("<br>Home Value: $" +homeValue);
 
 document.write("<br>Property Tax: $" + propertyTax.toFixed(2));
 
+}
+-->
 
-//-->
-</script>
