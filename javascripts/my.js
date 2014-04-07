@@ -86,6 +86,17 @@ document.write("<br>Home Value: $" +homeValue);
 
 document.write("<br>Property Tax: $" + propertyTax.toFixed(2));
 
-}
+}//End of runTax Function
+
+document.write("Charleston High tax rate: "+(charlestonHighTax*100).toFixed(2)+"%");
+document.write("<br>Charleston Mid tax rate: "+(charlestonMidTax*100).toFixed(2)+"%");
+document.write("<br>Charleston Low tax rate: "+(charlestonLowTax*100).toFixed(2)+"%");
+
+document.write("<br>Dorchester High tax rate: "+(dorchesterHighTax*100).toFixed(2)+"%");
+document.write("<br>Dorchester Mid tax rate: "+(dorchesterMidTax*100).toFixed(2)+"%");
+document.write("<br>Dorchester Low tax rate: "+(dorchesterLowTax*100).toFixed(2)+"%");
+document.write("<br>Berkley High tax rate: "+(berkleyHighTax*100).toFixed(2)+"%");
+document.write("<br>Berkley Mid tax rate: "+(berkleyMidTax*100).toFixed(2)+"%");
+document.write("<br>Berkley Low tax rate: "+(berkleyLowTax*100).toFixed(2)+"%");
 -->
 

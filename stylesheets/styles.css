@@ -1,0 +1,25 @@
+body
+{ 
+ 	background-color: rgb(200,215,215);
+ 
+ }
+ 
+ #Taxes {
+ 	height: 175px;
+ 	width:  450px;
+ 	position: absolute;
+ 	top: 2%;
+ 	left: 35%;
+ 
+ }
+ 
+p.infoText{
+	font-family: serif;
+	font: sans-serif;
+}
+ 
+button {
+	position: absolute;
+	right: 50%;
+} 
+ 
