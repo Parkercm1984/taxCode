@@ -14,6 +14,8 @@ var berkleyLowTax=0.02;
 
 var county, homeValue, propertyTax;
 
+
+// Start of runTax function
 function runTax()
 
 {

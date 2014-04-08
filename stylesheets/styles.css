@@ -16,10 +16,12 @@ body
 p.infoText{
 	font-family: serif;
 	font: sans-serif;
+	font-size: large;
 }
  
 button {
 	position: absolute;
 	right: 50%;
 } 
+
  
