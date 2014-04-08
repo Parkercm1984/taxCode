@@ -17,6 +17,11 @@ p.infoText{
 	font-family: serif;
 	font: sans-serif;
 	font-size: large;
+	border-bottom-style:solid;
+	border-width: 5px; 
+	border-top-style: solid;
+	border-bottom-color:  navy;
+	border-top-color: navy;
 }
  
 button {
